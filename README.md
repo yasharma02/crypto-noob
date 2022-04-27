@@ -1,7 +1,7 @@
 # Crypto Noob's guide to crypto
-My collection of useful resources to surf the cryptic sea without being mauled by sharks. 
+A collection of useful resources that help to surf the cryptic sea without being mauled by sharks. 
 
-Here you can find resources to build your own base, which other established bases to visit for learning, and a little bit more.
+Here you can find resources needed to build your own base and other established bases you can visit for learning. And a little bit more.
 
 ## The Holy Source
 - [ETH God](https://twitter.com/VitalikButerin)
@@ -20,7 +20,7 @@ Here you can find resources to build your own base, which other established base
 - [useWeb3](https://www.useweb3.xyz/)
 - [zastrin](https://www.zastrin.com/#courses) - check out the resources section as well
 - [cryptohack](https://cryptohack.org/) - learn cryptography
-- [Crypto, Culture & Society](https://cryptosociety.notion.site/cryptosociety/Crypto-Culture-Society-01f39bcff26b422183061e6011b16892)
+- [Crypto, Culture & Society](https://cryptosociety.notion.site/cryptosociety/Crypto-Culture-Society-01f39bcff26b422183061e6011b16892) - check out the web3 starter pack
 - [Nakamoto Institute](https://nakamotoinstitute.org/)
 - [Khan academy](https://www.khanacademy.org/profile/kaid_1072182780434710045051197/courses)
 - [Daily Ape encyclopedia](https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e)
@@ -60,13 +60,17 @@ Here you can find resources to build your own base, which other established base
 - [Multicoin](https://multicoin.capital/blog/category/blog/)
 - [Union Square](https://www.usv.com/)
 - [Paradigm](https://www.paradigm.xyz/writing)
-- [Delphi Digital]()
+- [Delphi Digital](https://delphidigital.io/research)
 
 ## Video resources
 - [Visual DeFi explanations](https://www.youtube.com/c/Finematics/videos)
 - [Learn smart contract programming](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 - [Real Vision](https://www.realvision.com/videos/crypto)
 - [a16z crypto startup school](https://a16z.com/crypto-startup-school/)
+- [Bankless](https://www.youtube.com/c/Bankless/videos)
+- [Crypto Banter](https://www.youtube.com/channel/UCN9Nj4tjXbVTLYWN0EKly_Q)
+- [Dapp university](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+- [web3 foundation](https://www.youtube.com/c/WEB3Foundation/videos)
 
 ## Analytics
 - [L2 fees](https://l2fees.info/l1-fees)
@@ -81,6 +85,7 @@ Here you can find resources to build your own base, which other established base
 - [nansen on chain research](https://www.nansen.ai/)
 - [cypher hunter data library](https://www.cypherhunter.com/en/)
 - [Dune](https://dune.xyz/rchen8/opensea)
+- [Messari research blog](https://messari.io/research)
 
 ## Trading
 - [Indexcoop](https://indexcoop.com/)
