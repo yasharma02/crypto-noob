@@ -86,11 +86,17 @@ Here you can find resources needed to build your own base and other established 
 - [cypher hunter data library](https://www.cypherhunter.com/en/)
 - [Dune](https://dune.xyz/rchen8/opensea)
 - [Messari research blog](https://messari.io/research)
+- [ETH Burned](https://ultrasound.money)
+- [ETH gas estimator](https://www.blocknative.com/gas-estimator)
 
 ## Trading
 - [Indexcoop](https://indexcoop.com/)
 - [dextools](https://www.dextools.io/app/)
 - [Bitcoin live trading](https://bitcoin.live/)
+- [Benjamin Cowen](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg/videos)
+
+## NFT
+- [A list of NFT tools](https://app.skiff.org/docs/0fe08282-94b1-4de7-b1ea-e84bedbc65e3#CobjdTGvlHHM7fceRN9UjUemDSKO7JEhNDeiC+k9Yjc=)
 
 
 
