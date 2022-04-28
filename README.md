@@ -52,9 +52,11 @@ Here you can find resources needed to build your own base and other established 
 - [Proof of stake and stablecoins](https://www.lynalden.com/proof-of-stake/)
 - [Latecomer's guide to crypto](https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html)
 - [Energy Cancelled](https://cryptohayes.medium.com/energy-cancelled-e9f9e53a50cd)
+- [Skeptics' guide to NFTs](https://justincone.com/posts/nft-skeptics-guide/)
 
 ## Twitter threads
 - [cdixon's collection](https://cdixon.mirror.xyz/TNOgrQGh_xUnBVO7wuYB-NMajrc3_0zN20-XznJRKlk)
+- [my collection of threads from thought leaders](https://app.skiff.org/docs/c91854ed-7783-4d27-912d-f82d33311f65#N8WhUXaoWGHvzdxrFjx523pDbW7Y71WDqt96VTeNFjg=)
 
 ## VC research
 - [Multicoin](https://multicoin.capital/blog/category/blog/)
@@ -97,6 +99,7 @@ Here you can find resources needed to build your own base and other established 
 
 ## NFT
 - [A list of NFT tools](https://app.skiff.org/docs/0fe08282-94b1-4de7-b1ea-e84bedbc65e3#CobjdTGvlHHM7fceRN9UjUemDSKO7JEhNDeiC+k9Yjc=)
+- [list of jpegs & artists I like](https://app.skiff.org/docs/02390a07-07d2-464b-8d44-52df95f04b9d#Ah33OuK2+D6Ef717HcgAvD4O7dnp+OzQu8v5n8T52CE=)
 
 
 
