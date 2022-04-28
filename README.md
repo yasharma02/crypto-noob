@@ -9,11 +9,12 @@ Here you can find resources needed to build your own base and other established 
 - [ETH wiki](https://eth.wiki/)
 - [Eth Hub](https://docs.ethhub.io/)
 
-## Speak the language
+## Picks and shovels
 - [Solidity docs](https://docs.soliditylang.org/en/v0.8.13/index.html)
 - [Solidity by example](https://solidity-by-example.org/)
 - [Smart contract engineer](https://www.smartcontract.engineer/)
 - [Learning tools](https://ethereum.org/en/developers/learning-tools/)
+- [Free Resources to Learn web3 dev](https://blog.idrisolubisi.com/free-resources-to-learn-solidity-ethereum-blockchain-fullstack-dapps-and-smart-contract)
 
 ## Geek cities (Public Goods)
 - [devpill.me](https://www.devpill.me/docs/introduction/foreword/)
@@ -29,6 +30,7 @@ Here you can find resources needed to build your own base and other established 
 - [DeFi school wiki](https://wiki.defi.school/)
 - [DeFi rate](https://defirate.com/)
 - [NFT school](https://nftschool.dev/)
+- [moonjuice](https://www.moonjuice.gg)
 
 ## Blogs
 - [Lyn Alden](https://www.lynalden.com/about-lyn-alden/)
@@ -62,8 +64,11 @@ Here you can find resources needed to build your own base and other established 
 - [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 - [The ultimate guide to L2s on Ethereum](https://dcbuilder.mirror.xyz/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0)
 - [How to create an NFT collection - Masterclass](https://www.youtube.com/watch?v=Zhmj4PiJ-GA)
+- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
+- [execution layer for the modular blockchain stack](https://open.spotify.com/episode/2UEI2UIPYH2RCH8LcxjYwa?si=e02dd574a0544ad3&nd=1)
+- [The Economics of War](https://www.whatbitcoindid.com/podcast/the-economics-of-war)
 
-## Twitter threads
+## Threads
 - [cdixon's collection](https://cdixon.mirror.xyz/TNOgrQGh_xUnBVO7wuYB-NMajrc3_0zN20-XznJRKlk)
 - [my collection of threads from thought leaders](https://app.skiff.org/docs/c91854ed-7783-4d27-912d-f82d33311f65#N8WhUXaoWGHvzdxrFjx523pDbW7Y71WDqt96VTeNFjg=) - topics include resources for devs and artists, on web3 design, money and nfts
 
@@ -84,6 +89,7 @@ Here you can find resources needed to build your own base and other established 
 - [Dapp university](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 - [web3 foundation](https://www.youtube.com/c/WEB3Foundation/videos)
 - [Foundations of Blockchains](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
+- [DeFi Dad](https://www.youtube.com/playlist?list=PLNzMl-Xdbc4Z6C-BEEvvzTACtPGpc9Mdd)
 
 ## Analytics
 - [L2 fees](https://l2fees.info/l1-fees)
