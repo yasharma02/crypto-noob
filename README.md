@@ -46,25 +46,35 @@ Here you can find resources needed to build your own base and other established 
 - [Barking up the wrong tree](https://www.bakadesuyo.com/)
 - [1729](https://1729.com/archive)
 - [Blockware market intelligence](https://www.blockwareintelligence.com/)
+- [david phelps](https://davidphelps.substack.com/archive) - read people are the New Platforms
+- [zeroknowledge.fm](https://zeroknowledge.fm)
 
-## Goodreads
+## Goodstuff
 - [Why the future belongs to nerds](https://molochpilled.substack.com/p/the-marxist-invasion?s=r)
 - [Proof of stake and stablecoins](https://www.lynalden.com/proof-of-stake/)
 - [Latecomer's guide to crypto](https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html)
 - [Energy Cancelled](https://cryptohayes.medium.com/energy-cancelled-e9f9e53a50cd)
 - [Skeptics' guide to NFTs](https://justincone.com/posts/nft-skeptics-guide/)
+- [A Bull Case for Music NFTs](https://members.delphidigital.io/reports/bull-case-for-music-nfts)
+- [Wallet Security](https://skerritt.blog/wallet-security/)
+- [Decentralization for Web3 Builders](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/)
+- [Defi 2.0 investing - Haseeb Qureshi](https://www.youtube.com/watch?v=4z2fH9Fgt9k)
+- [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+- [The ultimate guide to L2s on Ethereum](https://dcbuilder.mirror.xyz/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0)
+- [How to create an NFT collection - Masterclass](https://www.youtube.com/watch?v=Zhmj4PiJ-GA)
 
 ## Twitter threads
 - [cdixon's collection](https://cdixon.mirror.xyz/TNOgrQGh_xUnBVO7wuYB-NMajrc3_0zN20-XznJRKlk)
-- [my collection of threads from thought leaders](https://app.skiff.org/docs/c91854ed-7783-4d27-912d-f82d33311f65#N8WhUXaoWGHvzdxrFjx523pDbW7Y71WDqt96VTeNFjg=)
+- [my collection of threads from thought leaders](https://app.skiff.org/docs/c91854ed-7783-4d27-912d-f82d33311f65#N8WhUXaoWGHvzdxrFjx523pDbW7Y71WDqt96VTeNFjg=) - topics include resources for devs and artists, on web3 design, money and nfts
 
 ## VC research
 - [Multicoin](https://multicoin.capital/blog/category/blog/)
 - [Union Square](https://www.usv.com/)
 - [Paradigm](https://www.paradigm.xyz/writing)
 - [Delphi Digital](https://delphidigital.io/research)
+- [a16z](https://future.a16z.com)
 
-## Video resources
+## Video resources & Podcasts
 - [Visual DeFi explanations](https://www.youtube.com/c/Finematics/videos)
 - [Learn smart contract programming](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 - [Real Vision](https://www.realvision.com/videos/crypto)
@@ -73,6 +83,7 @@ Here you can find resources needed to build your own base and other established 
 - [Crypto Banter](https://www.youtube.com/channel/UCN9Nj4tjXbVTLYWN0EKly_Q)
 - [Dapp university](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 - [web3 foundation](https://www.youtube.com/c/WEB3Foundation/videos)
+- [Foundations of Blockchains](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
 
 ## Analytics
 - [L2 fees](https://l2fees.info/l1-fees)
@@ -100,6 +111,9 @@ Here you can find resources needed to build your own base and other established 
 ## NFT
 - [A list of NFT tools](https://app.skiff.org/docs/0fe08282-94b1-4de7-b1ea-e84bedbc65e3#CobjdTGvlHHM7fceRN9UjUemDSKO7JEhNDeiC+k9Yjc=)
 - [list of jpegs & artists I like](https://app.skiff.org/docs/02390a07-07d2-464b-8d44-52df95f04b9d#Ah33OuK2+D6Ef717HcgAvD4O7dnp+OzQu8v5n8T52CE=)
+
+## Others
+- [Mine bitcoin at home](https://compassmining.io) - [Mining pools](https://mining.luxor.tech)
 
 
 
