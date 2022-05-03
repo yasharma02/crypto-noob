@@ -15,6 +15,7 @@ Here you can find resources needed to build your own base and other established 
 - [Smart contract engineer](https://www.smartcontract.engineer/)
 - [Learning tools](https://ethereum.org/en/developers/learning-tools/)
 - [Free Resources to Learn web3 dev](https://blog.idrisolubisi.com/free-resources-to-learn-solidity-ethereum-blockchain-fullstack-dapps-and-smart-contract)
+- [Nader’s web3 Learning Resources for Developers](https://naderdabit.notion.site/naderdabit/Nader-s-web3-Learning-Resources-for-Developers-a200ed2ef21c4d578dc158df2b882c63)
 
 ## Geek cities (Public Goods)
 - [devpill.me](https://www.devpill.me/docs/introduction/foreword/)
@@ -67,6 +68,7 @@ Here you can find resources needed to build your own base and other established 
 - [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 - [execution layer for the modular blockchain stack](https://open.spotify.com/episode/2UEI2UIPYH2RCH8LcxjYwa?si=e02dd574a0544ad3&nd=1)
 - [The Economics of War](https://www.whatbitcoindid.com/podcast/the-economics-of-war)
+- [The Ownership Economy 2022](https://variant.fund/writing/the-ownership-economy-2022)
 
 ## Threads
 - [cdixon's collection](https://cdixon.mirror.xyz/TNOgrQGh_xUnBVO7wuYB-NMajrc3_0zN20-XznJRKlk)
