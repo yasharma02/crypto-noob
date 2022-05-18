@@ -3,7 +3,7 @@ A collection of useful resources that help to surf the cryptic sea without being
 
 Here you can find resources needed to build your own base and other established bases you can visit for learning. And a little bit more.
 
-## The Holy Source
+## The Origin
 - [ETH God](https://twitter.com/VitalikButerin)
 - [ETH Relics](https://ethereum.org/en/whitepaper/)
 - [ETH wiki](https://eth.wiki/)
@@ -32,6 +32,7 @@ Here you can find resources needed to build your own base and other established 
 - [DeFi rate](https://defirate.com/)
 - [NFT school](https://nftschool.dev/)
 - [moonjuice](https://www.moonjuice.gg)
+- [Cryptoeconomics.Study](http://cryptoeconomics.study)
 
 ## Blogs
 - [Lyn Alden](https://www.lynalden.com/about-lyn-alden/)
@@ -51,6 +52,9 @@ Here you can find resources needed to build your own base and other established 
 - [Blockware market intelligence](https://www.blockwareintelligence.com/)
 - [david phelps](https://davidphelps.substack.com/archive) - read people are the New Platforms
 - [zeroknowledge.fm](https://zeroknowledge.fm)
+- [ribbonfarm - constructions in magical thinking](https://www.ribbonfarm.com)
+- [Ethan Buchman blog](https://ebuchman.github.io/posts/)
+- [Not Boring by Packy McCormick](https://www.notboring.co/archive)
 
 ## Goodstuff
 - [Why the future belongs to nerds](https://molochpilled.substack.com/p/the-marxist-invasion?s=r)
@@ -69,6 +73,9 @@ Here you can find resources needed to build your own base and other established 
 - [execution layer for the modular blockchain stack](https://open.spotify.com/episode/2UEI2UIPYH2RCH8LcxjYwa?si=e02dd574a0544ad3&nd=1)
 - [The Economics of War](https://www.whatbitcoindid.com/podcast/the-economics-of-war)
 - [The Ownership Economy 2022](https://variant.fund/writing/the-ownership-economy-2022)
+- [Howard Marks - Embracing the Psychology of Investing](https://www.joincolossus.com/episodes/70790270/marks-embracing-the-psychology-of-investing?tab=transcript)
+- [bitcoin is dead](https://www.bitcoinisdead.org)
+- [The Sustainability Checklist](https://mirror.xyz/polynya.eth/UL8_QVNtB-nQoPYyoGyTteJoFNf9jEubzdRqO_5Ez58)
 
 ## Threads
 - [cdixon's collection](https://cdixon.mirror.xyz/TNOgrQGh_xUnBVO7wuYB-NMajrc3_0zN20-XznJRKlk)
@@ -80,6 +87,7 @@ Here you can find resources needed to build your own base and other established 
 - [Paradigm](https://www.paradigm.xyz/writing)
 - [Delphi Digital](https://delphidigital.io/research)
 - [a16z](https://future.a16z.com)
+- [2022 State of Crypto Report by a16z](https://a16zcrypto.com/state-of-crypto-report-a16z-2022/)
 
 ## Video resources & Podcasts
 - [Visual DeFi explanations](https://www.youtube.com/c/Finematics/videos)
@@ -109,6 +117,8 @@ Here you can find resources needed to build your own base and other established 
 - [Messari research blog](https://messari.io/research)
 - [ETH Burned](https://ultrasound.money)
 - [ETH gas estimator](https://www.blocknative.com/gas-estimator)
+- [Cosmos ecosystem overview map](https://mapofzones.com/?testnet=false&period=24&tableOrderBy=ibcVolume&tableOrderSort=desc)
+- [Tools for on-chain market data analysis](https://twitter.com/WClementeIII/status/1526619107361280000)
 
 ## Trading
 - [Indexcoop](https://indexcoop.com/)
